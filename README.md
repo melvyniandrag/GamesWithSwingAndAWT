@@ -39,3 +39,6 @@ Then we'll look at an ugly tic tac toe game I threw together in a few minutes an
 Then you will improve it for homework.
 
 Feel free to throw away my design completely if you have a better idea!
+
+## Here is my ugly game
+[!game](terribleTicTacToe.png)
