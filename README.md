@@ -41,4 +41,4 @@ Then you will improve it for homework.
 Feel free to throw away my design completely if you have a better idea!
 
 ## Here is my ugly game
-[game](terribleTicTacToe.PNG)
+<img src="terribleTicTacToe.PNG" width="100" height="100">
